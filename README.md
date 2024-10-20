@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmanOjha98
+- 👋 Hi, I’m Aman Ojha (@AmanOjha98)
 - 👀 I’m interested in learning new stuff which interests me
 - 🌱 I’m express in Next JS(React JS), and Node JS
 
